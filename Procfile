@@ -1,1 +1,1 @@
-web: python3 Doraemon.py
+Chatbot: python3 Doraemon.py
